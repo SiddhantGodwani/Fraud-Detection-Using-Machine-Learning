@@ -64,10 +64,10 @@ Edit
 
 ## ⚙️ Setup Instructions
 
-📬 Contact
-Siddhant Godwani
-📧 siddhantgodwani8697@gmail.com
-[🔗 LinkedIn :](https://www.linkedin.com/in/siddhant-godwani)
+## 📬 Contact
+-Siddhant Godwani
+-📧 siddhantgodwani8697@gmail.com
+-[🔗 LinkedIn :](https://www.linkedin.com/in/siddhant-godwani)
 
 ### ✅ 1. Clone the repository or download the files
 
